@@ -1,0 +1,16 @@
+PODS:
+  - SConnection (0.1.0)
+
+DEPENDENCIES:
+  - SConnection (from `../`)
+
+EXTERNAL SOURCES:
+  SConnection:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SConnection: a0d4cf29fe32735fc10b157ddd8899330c08e638
+
+PODFILE CHECKSUM: c367158884b8dda3eaa0716224b63866c7c466db
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module SConnection {
+  umbrella header "SConnection-umbrella.h"
+
+  export *
+  module * { export * }
+}
