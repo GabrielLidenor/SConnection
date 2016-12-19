@@ -20,6 +20,16 @@ it, simply add the following line to your Podfile:
 pod "SConnection"
 ```
 
+## Easy to use
+```
+  //This method will return a Boolean
+  if(SConnection.isConnectedToNetwork()){
+    //do some code
+  }else{
+    //show an alert,
+  }
+```
+
 ## Author
 
 Gabriel Lidenor, gabrielslack@gmail.com
