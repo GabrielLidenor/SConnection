@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SConnection_Tests' do
+  pod 'SConnection', :path => '../'
+  
+  
+end
