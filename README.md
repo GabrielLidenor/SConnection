@@ -26,7 +26,7 @@ pod "SConnection"
   if(SConnection.isConnectedToNetwork()){
     //do some code
   }else{
-    //show an alert,
+    //show an alert
   }
 ```
 
