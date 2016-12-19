@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "49064F51CC3F1A27191666AE7F02C0272344DF21",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49064F51CC3F1A27191666AE7F02C0272344DF21" : 9223372036854775807,
+    "FB947FB1EBBF6F90C69E2FF8E15069995AED6A53" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE8F22F0-7119-4A3C-9543-3E642859EE26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49064F51CC3F1A27191666AE7F02C0272344DF21" : "SConnection\/",
+    "FB947FB1EBBF6F90C69E2FF8E15069995AED6A53" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SConnection",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/SConnection.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GabrielLidenor\/SConnection.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49064F51CC3F1A27191666AE7F02C0272344DF21"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GabrielLidenor\/Reachability.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB947FB1EBBF6F90C69E2FF8E15069995AED6A53"
+    }
+  ]
+}
