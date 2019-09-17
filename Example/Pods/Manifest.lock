@@ -1,5 +1,5 @@
 PODS:
-  - SConnection (0.1.0)
+  - SConnection (0.0.1)
 
 DEPENDENCIES:
   - SConnection (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SConnection: a0d4cf29fe32735fc10b157ddd8899330c08e638
+  SConnection: c9e43e9dae4c3df165e95731e15cefa1816ff391
 
 PODFILE CHECKSUM: c367158884b8dda3eaa0716224b63866c7c466db
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.7.5
