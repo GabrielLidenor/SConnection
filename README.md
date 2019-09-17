@@ -1,3 +1,7 @@
+# About
+
+SConnection is a lib for checking internet connection on iOS with Swift 4
+
 # SConnection
 
 [![CI Status](http://img.shields.io/travis/Gabriel Lidenor/SConnection.svg?style=flat)](https://travis-ci.org/Gabriel Lidenor/SConnection)
