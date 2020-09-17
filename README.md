@@ -35,7 +35,7 @@ pod "SConnection"
 
 ## Author
 
-Gabriel Lidenor, gabrielslack@gmail.com
+Gabriel Lidenor
 
 ## License
 
